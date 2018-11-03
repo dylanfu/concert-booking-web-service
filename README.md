@@ -25,7 +25,7 @@ the service will experience high load when concert tickets go on sale.
 You will need Java 1.8 to run the Java application  
 Download `jdk1.8` from the [Oracle website](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
-The project requires Maven. Maven command line tools can be installed, or using an IDE that includes Maven integration such as Eclipse or IntelliJ.  
+The project requires Maven. Maven command line tools can be installed, or using an IDE that includes Maven integration such as Eclipse or IntelliJ will be sufficient.  
 
 ### Installing
 

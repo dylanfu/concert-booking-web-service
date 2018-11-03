@@ -44,7 +44,6 @@ Desktop.ini
 ######################
  
 *.pydevproject
-.project
 .metadata
 bin/**
 tmp/**
@@ -54,13 +53,25 @@ tmp/**/*
 *.swp
 *~.nib
 local.properties
-.classpath
-.settings/
+*.project
+*.classpath
+*.settings/
 .loadpath
 /src/main/resources/rebel.xml
 # External tool builders
 .externalToolBuilders/
- 
+
+# User specific files
+softeng325-concert-client/.project
+softeng325-concert-client/.classpath
+softeng325-concert-client/.settings/
+softeng325-concert-common/.project
+softeng325-concert-common/.classpath
+softeng325-concert-common/.settings/
+softeng325-concert-service/.project
+softeng325-concert-service/.classpath
+softeng325-concert-service/.settings/
+
 # Locally stored "Eclipse launch configurations"
 *.launch
  

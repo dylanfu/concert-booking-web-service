@@ -28,7 +28,7 @@ Desktop.ini
 # OSX
 ######################
  
-.DS_Store
+*.DS_Store
 .svn
  
 # Thumbnails
